@@ -4,10 +4,10 @@
 2lambda123/functional-programming-jargon is built on the following main stack:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [ESLint](http://eslint.org/) – Code Review
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -18,10 +18,10 @@ Full tech stack [here](/techstack.md)
 2lambda123/functional-programming-jargon is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/functional-programming-jargon](https://github.com/2lambda123/functional-programming-jargon)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/09/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
